@@ -23,7 +23,7 @@ repository               : "https://github.com/mihunisasi"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Pro Photo_Michael Hutahaean.png"
+  avatar           : "images/Photo-Michael.png"
   name             : "Michael Hutahaean"
   pronouns         : # example: "she/her"  
   bio              : "Academic Portfolio"
