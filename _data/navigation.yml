@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: _pages/teaching.md
+    url: /teaching/
 
   - title: "CV"
     url: files/CV_Michael Hutahaean.pdf
