@@ -23,10 +23,10 @@ repository               : "https://github.com/mihunisasi"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/Professional Photo_Michael Hutahaean.jpg"
+  name             : "Michael Hutahaean"
   pronouns         : # example: "she/her"  
-  bio              : "Michael Hutahaean Portfolio"
+  bio              : "Academic Portfolio"
   location         : "London, UK"
   employer         : "SOAS University of London"
   uri              : # URL
