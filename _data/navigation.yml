@@ -11,15 +11,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /conferences/    
-
   - title: "Teaching"
     url: _pages/teaching.md 
 
   - title: "CV"
     url: files/CV_Michael Hutahaean.pdf
     
+  # - title: "Conferences"
+  #  url: /conferences/    
+  
   # - title: "Portfolio"
   #  url: /portfolio/
         
